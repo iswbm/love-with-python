@@ -23,7 +23,7 @@ $ python3 all_love_in_picture.py
 $ python3 send_love.py
 ```
 
-## 4. 让妹子无法拒绝的喜欢
+## 4. 让女神欲罢不能的套路
 
 ```shell
 $ python3 -m pip install pygame
